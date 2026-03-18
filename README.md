@@ -1,11 +1,11 @@
-# 🍕 Pizza Order WinForms App
+#  Pizza Order WinForms App
 
 A simple **C# Windows Forms application** that allows users to create a pizza order by selecting size, crust type, toppings, and dining option.
 The application dynamically calculates the total price and provides an order confirmation before placing the order.
 
 ---
 
-## ✨ Features
+##  Features
 
 * Select **pizza size** (Small, Medium, Large)
 * Choose **crust type** (Thin or Thick)
@@ -17,7 +17,7 @@ The application dynamically calculates the total price and provides an order con
 
 ---
 
-## 🖥️ Technologies Used
+##  Technologies Used
 
 * **C#**
 * **.NET Framework**
@@ -26,7 +26,7 @@ The application dynamically calculates the total price and provides an order con
 
 ---
 
-## 📸 Application Workflow
+##  Application Workflow
 
 1. Select pizza **size**
 2. Choose **crust type**
@@ -37,7 +37,7 @@ The application dynamically calculates the total price and provides an order con
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 pizza-order-winforms
@@ -52,7 +52,7 @@ pizza-order-winforms
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
 
